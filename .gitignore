@@ -1,0 +1,8 @@
+node_modules/
+build/
+postgres-data/
+
+.env
+env.local
+
+.DS_Store
